@@ -11,4 +11,4 @@ Minecraftový Server
 - PAMEŤ: **1T**
 
 ### Plugini:
-- LuckPerms
+- [LuckPerms](https://luckperms.net/download)
