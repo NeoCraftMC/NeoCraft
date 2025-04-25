@@ -1,3 +1,3 @@
 # NeoCraft
 NeoCraft je Minecraft
-<lr>
+<hr>
