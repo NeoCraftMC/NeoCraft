@@ -1,5 +1,5 @@
 # <h1 align="center"> NeoCraft </h1>  
-[![LuckPerms](https://raw.githubusercontent.com/neocraftmc/NeoCraft/refs/heads/mc/pictures/luckperms.png)](https://luckperms.net/download)
+Minecraftový Server
 
 ### Detaily:
 - Hosting: **Lokálny**
@@ -10,4 +10,10 @@
 - PAMEŤ: **1T**
 
 ### Plugini:
-- [LuckPerms](https://luckperms.net/download)
+- **[LuckPerms](https://luckperms.net/download)**
+- **ViaVersion**
+- **Essentials**
+- **Tab**
+- **WorldEdit**
+- **WorldGuard**
+- **Shop**
