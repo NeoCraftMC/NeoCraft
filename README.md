@@ -1,2 +1,3 @@
-# neocraft
-Hlavný Repozitár Servera
+# NeoCraft
+NeoCraft je Minecraft
+<lr>
