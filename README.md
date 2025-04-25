@@ -10,4 +10,4 @@ Minecraftový Server
 - PAMEŤ: **1T**
 
 ### Plugini:
-[![LuckPerms](https://raw.githubusercontent.com/neocraftmc/NeoCraft/refs/heads/mc/pictures/luckperms.png)](https://luckperms.net/download)
+<h1>- </h1>[![LuckPerms](https://raw.githubusercontent.com/neocraftmc/NeoCraft/refs/heads/mc/pictures/luckperms.png)](https://luckperms.net/download)
