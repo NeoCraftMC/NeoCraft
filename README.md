@@ -1,6 +1,6 @@
 <h1 align="center"> NeoCraft </h1>
 Minecraftový Server
-
+Rankovacý Systém: [![LuckPerms](https://raw.githubusercontent.com/neocraftmc/NeoCraft/refs/heads/mc/pictures/luckperms.png)](https://luckperms.net/download)
 ### Detaily:
 - Hosting: **Lokálny**
 - IP Addressa: **log-tu.gl.joinmc.link**
@@ -10,4 +10,4 @@ Minecraftový Server
 - PAMEŤ: **1T**
 
 ### Plugini:
-[![LuckPerms](https://raw.githubusercontent.com/neocraftmc/NeoCraft/refs/heads/mc/pictures/luckperms.png)](https://luckperms.net/download)
+- LuckPerms
