@@ -1,4 +1,4 @@
-# NeoCraft
+<h1 align="center"> NeoCraft </h1>
 Minecraftový Server
 
 ### Detaily:
@@ -10,4 +10,4 @@ Minecraftový Server
 - PAMEŤ: **1T**
 
 ### Plugini:
-<h1>- </h1>[![LuckPerms](https://raw.githubusercontent.com/neocraftmc/NeoCraft/refs/heads/mc/pictures/luckperms.png)](https://luckperms.net/download)
+<h5>- </h5>[![LuckPerms](https://raw.githubusercontent.com/neocraftmc/NeoCraft/refs/heads/mc/pictures/luckperms.png)](https://luckperms.net/download)
