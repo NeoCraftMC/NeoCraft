@@ -1,5 +1,4 @@
-# <h1 align="center"> NeoCraft </h1>
-Minecraftový Server  
+# <h1 align="center"> NeoCraft </h1>  
 [![LuckPerms](https://raw.githubusercontent.com/neocraftmc/NeoCraft/refs/heads/mc/pictures/luckperms.png)](https://luckperms.net/download)
 
 ### Detaily:
